@@ -1,6 +1,6 @@
 ## Author : ARUNKUMAAR R
 ## Description : Creating VPC and SG 
-## Date : 17/05/24
+## Date : 17/06/24
 
 
 resource "aws_vpc" "nestjs_vpc" {
