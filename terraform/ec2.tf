@@ -1,4 +1,6 @@
-##
+## Author : ARUNKUMAAR R
+## Description : Creating SG  and EC2
+## Date : 17/06/24
 
 resource "aws_security_group" "nestjs_sg" {
   name        = "NestJS_SG"
