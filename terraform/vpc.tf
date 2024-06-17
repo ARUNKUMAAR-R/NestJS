@@ -1,5 +1,5 @@
 ## Author : ARUNKUMAAR R
-## Description : Creating VPC and SG 
+## Description : Creating VPC 
 ## Date : 17/06/24
 
 
