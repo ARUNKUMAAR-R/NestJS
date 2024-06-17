@@ -1,6 +1,6 @@
 ## Author : ARUNKUMAAR R
 ## Description : Variables for configuring AWS VPC
-## Date : 17/05/24
+## Date : 17/06/24
 
 
 variable "aws_region" {
@@ -9,9 +9,9 @@ variable "aws_region" {
 }
 
 variable "CIDR" {
-  default = "10.0.0.0/16"
+  default = "172.16.0.0/16"
 }
 
 variable "CIDR-PUBLIC" {
-  default = "10.0.1.0/24"
+  default = "172.16.1.0/24"
 }
